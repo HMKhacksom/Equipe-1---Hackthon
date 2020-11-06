@@ -1,0 +1,8 @@
+Link para Landing Page no Figma
+https://www.figma.com/proto/qCziWacOFe5NrAQ7GrmiyM/Solo---Landing-Page-UI?node-id=30%3A2525&scaling=min-zoom
+
+Link para projeto completo no Figma
+https://www.figma.com/file/qCziWacOFe5NrAQ7GrmiyM/Solo---Landing-Page-UI?node-id=28%3A2885
+
+Link para Site no Webflow
+https://hmk-project-c15907-3c0bba5fd96910c481de.webflow.io/
